@@ -76,3 +76,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://kpportfolio-fb961.netlify.app'
