@@ -41,6 +41,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
 **Web Focused Graphic Design Intern** — Scranton Gillette Communications
 **Graphic Design Intern** — Scranton Gillette Communications
 <hr>
+
 ##### **SKILLS**
 
 **Design** — Adobe Creative Cloud (Photoshop, InDesign, Illustrator, Dreamweaver, XD, After Effects), Procreate
