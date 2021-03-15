@@ -13,8 +13,7 @@ header:
     - label: About
       url: /about/
       style: link
-    - label: Portfolio
-      url: /portfolio/
+    - url: /portfolio/
       style: link
     - label: Contact
       url: /contact/
