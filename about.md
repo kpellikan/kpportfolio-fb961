@@ -43,7 +43,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
   </thead>
   <tbody>
     <tr>
-      <td><strong>Graphic Designer</strong> &emdash; Scranton Gillette Communications</td>
+      <td><strong>Graphic Designer</strong> &mdash; Scranton Gillette Communications</td>
       <td>Body content 2\</td>
     </tr>
   </tbody>
