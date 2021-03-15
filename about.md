@@ -63,7 +63,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
 <table>
     <thead>
     <tr>
-      <th><u>EXPERIENCE</u></th>
+      <th><u>SKILLS</u></th>
       <th>&nbsp;</th>
     </tr>
   </thead>
