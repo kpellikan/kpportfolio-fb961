@@ -38,7 +38,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
     <thead>
     <tr>
       <th><u>EXPERIENCE</u></th>
-      <th><u>&nsb</u></th>
+      <th><u>&nbsp;</u></th>
     </tr>
   </thead>
   <tbody>
