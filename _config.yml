@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-color_scheme: light
+color_scheme: dark
 accent_color: pink
 header:
   title: Exto
