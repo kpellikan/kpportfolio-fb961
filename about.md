@@ -70,7 +70,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
   <tbody>
     <tr>
       <td><strong>Design</strong></td>
-      <td>Scranton Gillette Communications</td>
+      <td>Adobe Creative Cloud (Photoshop, InDesign, Illustrator, Dreamweaver, XD, After Effects), Procreate</td>
     </tr>
   </tbody>
   <tbody>
