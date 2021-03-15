@@ -42,7 +42,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
   </thead>
   <tbody>
     <tr>
-      <td><strong>Graphic Designer</strong><br> </td>
+      <td><strong>Graphic Designer</strong></td>
       <td>Body content 2\</td>
     </tr>
   </tbody>
