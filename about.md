@@ -30,20 +30,26 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#### HELLO!
+#### **HELLO!**
 
 I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specialize in print and email/web design. Interested in working together? Send an [email](mailto:kpellikan@gmail.com) and check out my [resume](https://drive.google.com/file/d/1VM-9NWubTgoRr6ZJbJ1Ppfha3JVO304v/view?usp=sharing).
 
-##### EXPERIENCE**&#xA;Graphic Designer** — Scranton Gillette Communications&#xA;**Web Focused Graphic Design Intern** — Scranton Gillette Communications&#xA;**Graphic Design Intern** — Scranton Gillette Communications
+##### **EXPERIENCE**
 
-SKILLS**
-Design** — Adobe Creative Cloud (Photoshop, InDesign, Illustrator, Dreamweaver, XD, After Effects), Procreate
+**Graphic Designer** — Scranton Gillette Communications
+**Web Focused Graphic Design Intern** — Scranton Gillette Communications
+**Graphic Design Intern** — Scranton Gillette Communications
+
+**SKILLS**
+
+**Design** — Adobe Creative Cloud (Photoshop, InDesign, Illustrator, Dreamweaver, XD, After Effects), Procreate
 **Code** — HTML, CSS, Javascript
 **Software** — Microsoft Office, G Suite
 **Art** — Photography (digital, film), illustration, printmaking (screen printing, relief)
 
-RECOGNITION**
-2020** — Published in Juste Milieu Literary Magazine Issue 11
+##### **RECOGNITION**
+
+**2020** — Published in Juste Milieu Literary Magazine Issue 11
 **2019** — SGC Design Excellence Award, Best Digital Design - Silver, participating artist in the Women of Carthage Alumni Exhibition
 **2018** — SGC Design Excellence Award, Best Digital Design - Silver
 **2017** — Azbee Awards of Excellence, Regional Bronze Award
