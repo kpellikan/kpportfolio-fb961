@@ -30,6 +30,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+HELLO!
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
+I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specialize in print and email/web design. Interested in working together? Send an [email](mailto:kpellikan@gmail.com) and check out my [resume](https://drive.google.com/file/d/1VM-9NWubTgoRr6ZJbJ1Ppfha3JVO304v/view?usp=sharing).
+
+*   vv
+
+
+
