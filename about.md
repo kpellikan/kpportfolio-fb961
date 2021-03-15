@@ -51,6 +51,6 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
     <tr>
       <td>Footer content 1\</td>
       <td>Footer content 2\</td>
-    \</tr>
-  \</tfoot>
-\</table>
+    </tr>
+  </tfoot>
+</table>
