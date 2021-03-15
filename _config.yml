@@ -34,7 +34,7 @@ header:
       type: action
 footer:
   content: '&copy; 2021 Kimberly Pellikan'
-  has_social: true
+  has_social: false
   social_links:
     - label: Instagram
       url: 'https://www.instagram.com/'
