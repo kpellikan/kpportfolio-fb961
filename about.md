@@ -37,7 +37,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
 <table>
     <thead>
     <tr>
-      <th><u>EXPERIENCE</ul></th>
+      <th><u>EXPERIENCE</u></th>
       <th>Header content 2\</th>
     </tr>
   </thead>
