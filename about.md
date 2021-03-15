@@ -43,9 +43,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
   </thead>
   <tbody>
     <tr>
-      <td>Graphic Designer — Scranton Gillette Communications
-Web Focused Graphic Design Intern — Scranton Gillette Communications
-Graphic Design Intern — Scranton Gillette Communications</td>
+      <td>Graphic Designer — Scranton Gillette Communications</td>
       <td>Body content 2\</td>
     </tr>
   </tbody>
