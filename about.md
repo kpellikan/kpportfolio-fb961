@@ -33,9 +33,10 @@ layout: page
 #### **HELLO!**
 
 I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specialize in print and email/web design. Interested in working together? Send an [email](mailto:kpellikan@gmail.com) and check out my [resume](https://drive.google.com/file/d/1VM-9NWubTgoRr6ZJbJ1Ppfha3JVO304v/view?usp=sharing).
+<ul>
 
 ##### **EXPERIENCE**
-<>
+
 **Graphic Designer** — Scranton Gillette Communications
 **Web Focused Graphic Design Intern** — Scranton Gillette Communications
 **Graphic Design Intern** — Scranton Gillette Communications
