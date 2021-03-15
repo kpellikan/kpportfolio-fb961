@@ -88,7 +88,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
     <tbody>
     <tr>
       <td><strong>Art</strong></td>
-      <td>Scranton Gillette Communications</td>
+      <td>Photography (digital, film), illustration, printmaking (screen printing, relief)</td>
     </tr>
   </tbody>
   </table>
