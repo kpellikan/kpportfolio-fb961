@@ -34,7 +34,24 @@ HELLO!
 
 I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specialize in print and email/web design. Interested in working together? Send an [email](mailto:kpellikan@gmail.com) and check out my [resume](https://drive.google.com/file/d/1VM-9NWubTgoRr6ZJbJ1Ppfha3JVO304v/view?usp=sharing).
 
-*   vv
-
-
-
+\<table>
+    \<caption>Table with thead, tfoot, and tbody\</caption>
+  \<thead>
+    \<tr>
+      \<th>Header content 1\</th>
+      \<th>Header content 2\</th>
+    \</tr>
+  \</thead>
+  \<tbody>
+    \<tr>
+      \<td>Body content 1\</td>
+      \<td>Body content 2\</td>
+    \</tr>
+  \</tbody>
+  \<tfoot>
+    \<tr>
+      \<td>Footer content 1\</td>
+      \<td>Footer content 2\</td>
+    \</tr>
+  \</tfoot>
+\</table>
