@@ -76,7 +76,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
   <tbody>
     <tr>
       <td><strong>Code</strong></td>
-      <td>Scranton Gillette Communications</td>
+      <td>HTML, CSS, Javascript</td>
     </tr>
   </tbody>
   <tbody>
