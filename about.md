@@ -52,10 +52,10 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
 
 ##### **RECOGNITION**
 
-**2020** — Published in Juste Milieu Literary Magazine Issue 11
-**2019** — SGC Design Excellence Award, Best Digital Design - Silver, participating artist in the Women of Carthage Alumni Exhibition
-**2018** — SGC Design Excellence Award, Best Digital Design - Silver
-**2017** — Azbee Awards of Excellence, Regional Bronze Award
-**2014** — Published in Jet Fuel Review
-**2013** — Carthage College Purchase Award
+**2020** — Published in Juste Milieu Literary Magazine Issue 11<br>
+**2019** — SGC Design Excellence Award, Best Digital Design - Silver, participating artist in the Women of Carthage Alumni Exhibition<br>
+**2018** — SGC Design Excellence Award, Best Digital Design - Silver<br>
+**2017** — Azbee Awards of Excellence, Regional Bronze Award<br>
+**2014** — Published in Jet Fuel Review<br>
+**2013** — Carthage College Purchase Award<br>
 **2010** — Carthage College Student Art Show, Third Place
