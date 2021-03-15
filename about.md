@@ -46,7 +46,7 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
 **Code** — HTML, CSS, Javascript
 **Software** — Microsoft Office, G Suite
 **Art** — Photography (digital, film), illustration, printmaking (screen printing, relief)
-
+<hr>
 ##### **RECOGNITION**
 
 **2020** — Published in Juste Milieu Literary Magazine Issue 11
