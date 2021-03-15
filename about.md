@@ -45,8 +45,8 @@ I'm Kimberly, a graphic designer and artist based in Chicago, Illinois. I specia
 ##### **SKILLS**
 
 **Design** — Adobe Creative Cloud (Photoshop, InDesign, Illustrator, Dreamweaver, XD, After Effects), Procreate<br>
-**Code** — HTML, CSS, Javascript
-**Software** — Microsoft Office, G Suite
+**Code** — HTML, CSS, Javascript<br>
+**Software** — Microsoft Office, G Suite<br>
 **Art** — Photography (digital, film), illustration, printmaking (screen printing, relief)
 <hr>
 
