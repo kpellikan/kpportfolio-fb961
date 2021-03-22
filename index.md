@@ -6,7 +6,6 @@ sections:
     type: section_portfolio
     layout_style: tiles
     projects_number: 6
-    view_all_label: View All
     view_all_url: portfolio
 seo:
   title: Stackbit Exto Theme
